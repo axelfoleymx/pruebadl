@@ -37,7 +37,7 @@ h2{
 /*Esta mejora del botón de Bootstrap fue realizada a través del Inspector de Firefox*/
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #7f78ea;
+    background-color: rgba(176, 31, 38, 0.85);
     border-color: #8e3a28;
  }
 
@@ -45,4 +45,45 @@ h2{
 .logo1M{
  height: 80px;}
 
+.section-why{
 
+ background-color:#253E7F;
+}
+.aburrido{
+	style="margin-bottom:40px; 
+	 font-family:sans-serif; 
+	 font-size:50px; 
+	color:#EC5158;
+	 margin-top: 110px;
+}
+.poro{
+
+	color:#CFEC6F;
+	font-weight: bold;
+
+}
+h3.aprenderas{
+font-family:sans-serif;  
+text-align:center
+}
+#propuestavalor{
+	text-align:center
+
+}
+.img-circle{
+	width: 200px;
+height: auto;
+}
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 200;
+}
+.hackera{font-size: 50px;
+color: rgb(255, 0, 90)}
+#Queremos {
+	color:#cfec6f;
+}
+.llameya{
+	color:#E13541;
+}
