@@ -79,11 +79,43 @@ height: auto;
     font-size: 14px;
     font-weight: 200;
 }
-.hackera{font-size: 50px;
-color: rgb(255, 0, 90)}
+h1.hackera{font-size: 50px;
+color: #E13541;
+text-align:center;
+margin-top:30px;
+}
 #Queremos {
 	color:#cfec6f;
 }
 .llameya{
 	color:#E13541;
+}
+.filafoto{padding-top:40px;
+}
+.contenedorhacker{
+	padding-top:20px;
+}
+.convencete{
+	background-color: #0A2125;
+	margin-top: -50px;
+	text-align: center;
+}
+
+.aumentar{
+	color:#D2D2D2;
+}
+.titpat{text-align: center;
+}
+.empresa{
+	float: left;
+
+}
+.img-thumbnail{
+	width:auto;
+	height: 90px;
+	background-size: cover;
+
+}
+.microsoft{
+	margin-left: -20px;
 }
