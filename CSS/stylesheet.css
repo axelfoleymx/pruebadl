@@ -1,0 +1,48 @@
+ html{font-family:lato;
+ }
+ #cover{
+    background: url('http://www.hoswedaje.com/wp-content/uploads/2016/06/growth-hacking.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 2px;
+  }
+  .fondito{
+  	background-color: rgba(0, 0, 0, 0.45); 
+  	margin-bottom:0px;
+  	color: white;
+  }
+h1{
+	text-shadow: 2px 2px 1px #222;
+	color:white;
+	margin-top: 80px;
+}
+h2{
+	text-shadow: 2px 2px 1px #222;
+	color:white; 
+	margin-top:30px;
+}
+.botonresev{
+	margin:100px auto;
+}
+.btn{
+	font-weight: 900;
+	width: 220px;
+	font-size: 20px;
+}
+/*Esta mejora del botón de Bootstrap fue realizada a través del Inspector de Firefox*/
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #7f78ea;
+    border-color: #8e3a28;
+ }
+
+
+.logo1M{
+ height: 80px;}
+
+
